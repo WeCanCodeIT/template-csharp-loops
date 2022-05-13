@@ -1,5 +1,6 @@
 ﻿# We Can Code It - Looping Engine
 All of the following exercies MUST utilize loops to receive a PASSING grade.
+Make sure you only code where prompted in the Exercises.cs file. This means any code you write should be one line directly under "//SOLUTION HERE" and should never go beyond "Console.Write("Press enter to return to the Main Menu");" Once you are done with one solution, find the next spot down in the code to start your next solution to the next problem. 
 
 ## Primary Objectives
 > The WCCI Looping Engine needs to be completed. Use the following User stories and method descriptions to determine feature functionality
